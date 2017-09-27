@@ -1,4 +1,4 @@
-# php-primitive-testing-library-PPTL
+# php-primitive-testing-library-PPTL [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ## example:
 ```php
